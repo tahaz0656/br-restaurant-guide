@@ -2,7 +2,6 @@
 ## European
 ---
 Select a specific European food:
-## [Greek](Greek.md)
-## [mediteranean](mediteranean.md)
+## [Omonia-cafe](Omonia-cafe.md)
 ---
 [Start Over](../home.md)
