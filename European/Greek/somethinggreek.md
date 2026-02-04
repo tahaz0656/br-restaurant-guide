@@ -1,6 +1,6 @@
 # Bay Ridge Restaurant Guide
-## Greek --> sogit amethinggreek
+## Greek --> somethinggreek
 ---
-## somethingreek https://www.somethingreekonline.com/
+## somethinggreek.md https://www.somethingreekonline.com/
 ---
 [Back to Greek](../home.md)
