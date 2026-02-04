@@ -1,6 +1,6 @@
 # Bay Ridge Restaurant Guide
 ## Miditeranean --> Tanoreen
 ---
-## Tanoreen https://tanoreen.com/
+## tanoreen.md https://tanoreen.com/
 ---
 [Back to Mediteranean](../home.md)
