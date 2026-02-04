@@ -9,8 +9,8 @@ Click [here](home.md) to begin!
 
 ## Task 0: Study the directory structure
 
-1. Observe the files that are in the root directory of this repository:  
-  a. `README.md` is these directions  
+1. Observe the files that are in the root directory of this repository:
+  a. `README.md` is these directions
   b. `home.md` is where the user begins
 2. Explore the folders and the files inside of them.
 
@@ -32,7 +32,7 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
     a. _**IMPORTANT**: Use the magnifying glass icon to preview your markdown files in order to test the links._ ![](https://hstatsep.github.io/code50/open-preview.png).
 
    _They should also work correctly when you_ `push` _to Github._
-   
+
 2. Your task is to update the links for the entire **Asian** section. The restaurants are divided into sub-categories of Asian food. Here is your todo list:
 
 * `home.md`
@@ -43,7 +43,7 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
   * **Thai** --> _needs to go to_ --> `thai.md`
   * All 3 need **Back to Asian** links
   * All 3 need proper external links
-    * The text/URLs are already there. All you need to do is add the correct symbols.
+    * The text/URLs are already there. All you need to do is add the correct symbols.[text]
     * See `american.md` for examples
 * **Start over** --> _needs to go to_ --> `home.md` (for all files)
 
