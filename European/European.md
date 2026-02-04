@@ -2,6 +2,6 @@
 ## European
 
 Select a specific European food:
-## [Greek]()
-## [mediteranean]
+## [Greek](Greek.md)
+## [mediteranean](mediteranean.md)
 
