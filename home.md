@@ -4,4 +4,4 @@
 What kind of food are you hungry for?
 ## [American](american/american.md)
 ## [Asian](asian/asian.md)
-## [European](Greek/Greek.md)
+## [European](European/European.md)
