@@ -1,8 +1,8 @@
-Select a restaurant:
-## Greek --> Omnia-cafe and and somethinggreek
+# Bay Ridge Restaurant Guide
+## Asian
 ---
-Omnia-cafe.md [Omnia cafe](https://omoniacafe.com/)
+Select a specific Asian food:
+## [Greek](Greek.md)
+## [mediteranean](mediteranean.md)
 ---
-somethinggreek.md [something greek](https://www.somethingreekonline.com/)
----
-[Back to home](../home.md)
+[Start Over](../home.md)
