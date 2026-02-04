@@ -1,6 +1,10 @@
-# Bay ridge Restaurant Guide
-## Greek --> Omnia-cafe
+# Bay Ridge Restaurant Guide
+## European --> Greek
 ---
-## Omonia-cafe.md https://omoniacafe.com/
+Select a restaurant:
+## Omonia cafe https://omoniacafe.com/
 ---
-[Back to Greek](../home.md)
+
+[Back to European](../home.md)
+Start Over
+
